@@ -1,0 +1,5 @@
+python src/track.py with \
+    dataset_name=DEMO \
+    data_root_dir=/root/trackformer/72b6505f-4db3-4d62-9414-c560ab3438a7 \
+    output_dir=/root/trackformer/72b6505f-4db3-4d62-9414-c560ab3438a7 \
+    write_images=pretty
